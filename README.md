@@ -1,5 +1,5 @@
 # dueUsbhost
-Arduino due usb host driver class msc for usb key
+Arduino due sketch usb host driver class msc for usb key
 
 Version 1712 December 2017
 Also handles usb sd-card readers.
